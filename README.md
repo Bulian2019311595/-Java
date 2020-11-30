@@ -49,5 +49,6 @@ java.io.PrintWriter类，创建文件并写入数据(不能读取)。
 使用PrintWriter output = new PrintWriter(filName);创建新文件，利用 println, print, printf写入数据。
 
 ##实验结果
+编号：2019311595 姓名：BLL 性别：女
 ##实验感想
 通过本次实验对string字符串了解及其作用有了更深入地掌握，学会了在Java中如何读取和写入的方法，同时也掌握了异处理结构。相信自己所学的知识能更多的应用在实践中。
